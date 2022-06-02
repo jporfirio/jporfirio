@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm bad at self promoting and usually don't share my work online. If you want to know me, hit me up and we can chat, either live or online.
+Love all things React, in love with all things Remix, always trying to improve my JavaScript skills and Web fundamentals knowledge.
 <!--
 **jporfirio/jporfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
