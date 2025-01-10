@@ -2,9 +2,9 @@
 
 I'm bad at self promoting and usually don't share my work online.
 
-If you want to know me, hit me up and we can chat, either live or online.
+If you want to know me, hit me up and we can chat.
 
-Love all things React, in love with all things Remix, always trying to improve my JavaScript skills and knowledge of Web fundamentals.
+Love all things React, I'm currently working on shifting my career from frontend towards fullstack.
 <!--
 **jporfirio/jporfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
