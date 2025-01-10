@@ -4,7 +4,7 @@ I'm bad at self promoting and usually don't share my work online.
 
 If you want to know me, hit me up and we can chat.
 
-Love all things React, I'm currently working on shifting my career from frontend towards fullstack.
+Love all things React, I'm currently shifting my career from frontend towards fullstack.
 <!--
 **jporfirio/jporfirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
